@@ -1,4 +1,5 @@
 # missing-to-unidentified-persons-match
+This project gathers data from the National Missing and Unidentified Persons System and the California Office of the Attorney General, compares the two populations, and creates a finder tool to facilitate matching missing persons to an unidentified person. 
 
 File/Folder structure:
 - DSCI 510 Project.docx - project description
