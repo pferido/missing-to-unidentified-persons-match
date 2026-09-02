@@ -1,6 +1,6 @@
 # missing-to-unidentified-persons-match
 
-## File/Folder structure:
+File/Folder structure:
 - DSCI 510 Project.docx - project description
 - requirements.txt - all the requirements
 - /data/ - static versions of the SQL databases
